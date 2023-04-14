@@ -41,7 +41,7 @@ Ready for next process!!.
 
 For cleaning and converting the dataset process. I use `SQL` programming to do that.
 
-Here is SQL code : https://github.com/golfung/Bangkok_Condo_for_sale/blob/e11033d44507765d99c995a28a5abdae9d5d9e5f/02_Data_cleaning/Data_cleaning.sql
+Here is SQL code : [Click Here](https://github.com/golfung/Investment/blob/main/Bangkok_Condo_for_sale/02_Data_cleaning/Data_cleaning.sql)
 
 ![image-5](https://user-images.githubusercontent.com/77894515/226312622-6e8286d7-b5ac-4d7e-83ae-caa9c5291c8d.png)
 
@@ -61,7 +61,7 @@ The comparison between expensive and cheap. We will not directly compare the sel
 
 In this section, I still use the `SQL` program to analyze.
 
-You can see on coding here : https://github.com/golfung/Bangkok_Condo_for_sale/blob/01b827768b64c5100f105d0cad80f4c8afe5e155/03_Data_analysis.sql
+You can see on coding here : [CLick Here](https://github.com/golfung/Investment/blob/main/Bangkok_Condo_for_sale/03_Data_analysis.sql)
 
 This is my question to find opportunities from data.
 
