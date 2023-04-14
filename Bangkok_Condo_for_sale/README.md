@@ -61,7 +61,7 @@ The comparison between expensive and cheap. We will not directly compare the sel
 
 In this section, I still use the `SQL` program to analyze.
 
-You can see on coding here : [CLick Here](https://github.com/golfung/Investment/blob/main/Bangkok_Condo_for_sale/03_Data_analysis.sql)
+You can see on coding here : [Click Here](https://github.com/golfung/Investment/blob/main/Bangkok_Condo_for_sale/03_Data_analysis.sql)
 
 This is my question to find opportunities from data.
 
