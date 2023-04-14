@@ -31,7 +31,7 @@ I brought the source of condo listings from the www.livinginsider.com which is a
 
 So I use `R programming` to web scrape all the important data and export to ‘.csv’ file.
 
-You can see full R coding on here : https://github.com/golfung/Bangkok_Condo_for_sale/blob/9435e45f049f07019e4d12685821357e65b7b447/web_scraping.R
+You can see full R coding on here : [Click Here](https://github.com/golfung/Investment/blob/main/Bangkok_Condo_for_sale/01_web_scraping.R)
 
 ![image-2](https://user-images.githubusercontent.com/77894515/226307913-235ab91d-574a-43a4-88c1-859cc4d1049a.png)
 
