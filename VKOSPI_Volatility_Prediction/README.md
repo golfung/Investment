@@ -1,6 +1,6 @@
 # VKOSPI Volatility Prediction
  
-This is a project about try to predict the Korea's representative implied volatility index (VKOSPI) by Machine learning method in Python programming.
+This is a project about try to predict the Korea's representative implied volatility index (VKOSPI) by **Machine Learning** method in **Python** programming.
 
 This project refer to https://www.kaggle.com/datasets/ninetyninenewton/vkospi
 
@@ -89,4 +89,4 @@ Recommendation We may need to increase the amount of training data and add new p
 
 My money making project this time haven't found a chance yet. I'm still trying to find other opportunities. Stay tuned.
 
-See full code : [Click Here]
+See full code : [Click Here](https://github.com/golfung/Investment/blob/main/VKOSPI_Volatility_Prediction/vkospi-volatility-prediction.ipynb)
