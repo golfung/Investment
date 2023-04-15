@@ -23,6 +23,11 @@ I will explore the datasets to find interesting insights for investment purposes
 
 **You can view the second part of the project at [Here](https://github.com/golfung/Investment/tree/main/Stock_data_analysis_part_2)**, 
 
+### Conclusion from Part 1
+- The prediction model can't directly predict the closing price.
+- But I found *the percentage change of today's closing price from today's morning opening price* are correlate with *the percentage change of afternoon opening price from today's morning opening price*.
+- So I got strategy **"Buy Afternoon opening price (ATO2), Sell today closing price (ATC)"**
+
 ### and the full code at [Here](https://github.com/golfung/Investment/blob/main/Stock_data_analysis_part_1/Stock%20data%20for%20test.ipynb). 
 
 ### Here is the presentation for the first part.
