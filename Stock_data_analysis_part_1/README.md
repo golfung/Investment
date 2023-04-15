@@ -21,7 +21,7 @@ I will explore the datasets to find interesting insights for investment purposes
 - System trading
 - Python programming
 
-**You can view the second part of the project at [insert link]**, 
+**You can view the second part of the project at [Here](https://github.com/golfung/Investment/tree/main/Stock_data_analysis_part_2)**, 
 
 ### and the full code at [Here](https://github.com/golfung/Investment/blob/main/Stock_data_analysis_part_1/Stock%20data%20for%20test.ipynb). 
 
