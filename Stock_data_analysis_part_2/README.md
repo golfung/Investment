@@ -30,7 +30,7 @@ Next, Here are Thailand stock dataset for backtesting
 ![Slide2](https://user-images.githubusercontent.com/77894515/232231522-dbf7e997-6cdb-4338-848a-6e84f2a7db4d.PNG)
 - First part the percentage change of today's closing price from today's morning opening price are correlate with the percentage change of afternoon opening price from today's morning opening price.
 ![Slide3](https://user-images.githubusercontent.com/77894515/232231526-cc25e072-d129-421a-917c-ed18f4e5e397.PNG)
-- Add more Stock data to choose prediction model.
+- Add more Stock data to choose prediction model. Here is my strategy **"Buy Afternoon opening price (ATO2), Sell today closing price (ATC)"** 
 ![Slide4](https://user-images.githubusercontent.com/77894515/232231532-1367b391-21ab-46ce-9369-093f6e90c754.PNG)
 - Select Linear regression model
 ![Slide5](https://user-images.githubusercontent.com/77894515/232231536-0489f849-d831-4a74-8435-7dce7a246050.PNG)
