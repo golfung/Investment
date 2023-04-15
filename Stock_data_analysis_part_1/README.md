@@ -23,7 +23,7 @@ I will explore the datasets to find interesting insights for investment purposes
 
 **You can view the second part of the project at [insert link]**, 
 
-### and the full code at [insert link]. 
+### and the full code at [Here](https://github.com/golfung/Investment/blob/main/Stock_data_analysis_part_1/Stock%20data%20for%20test.ipynb). 
 
 ### Here is the presentation for the first part.
 
