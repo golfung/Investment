@@ -20,6 +20,17 @@ Next, Here are Thailand stock dataset for backtesting
 - sSET [See Code](https://github.com/golfung/Investment/blob/main/Stock_data_analysis_part_2/Stock%20data%20sSET.ipynb)
 - mai [See Code](https://github.com/golfung/Investment/blob/main/Stock_data_analysis_part_2/Stock%20data%20mai.ipynb)
 
+### Conclusion from part 2
+- ATO/ATC dataset trading inside
+- “% change  ATO2 from ATO1” and “% change  ATO1 from yesterday ATC” to predict “% change  ATC from ATO1”
+- Buy ATO2 then Sell ATC strategy
+- Buy on ATO2  when
+    - Afternoon opening price >= Morning opening price (P_chg_ATO2_ATO1 >= 0) 
+    - Calculate 𝑝𝑟𝑒𝑑_𝑐ℎ𝑔_𝐶𝑡_𝑂𝑡 (predict % change of ATC from ATO1)
+    - [𝑝𝑟𝑒𝑑_𝑐ℎ𝑔_𝐶𝑡_𝑂𝑡] −[𝑃_𝑐ℎ𝑔_𝐴𝑇𝑂2_𝐴𝑇𝑂1] > 0.3% (commission)
+- Highest profit on mai stock list (+95%)
+
+
 ### Recommend
 - Forward test
 - Add slippage
