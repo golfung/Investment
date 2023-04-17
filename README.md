@@ -10,7 +10,7 @@ This is a collection of projects from me. In applying the **Data** to investment
 
 ### [Stock data analysis (Part 1)](https://github.com/golfung/Investment/tree/main/Stock_data_analysis_part_1):fire::fire:Recommend
 - This is a project that a finance job interviewer asked me to do. I will explore the datasets to find interesting insights for investment purposes.
-- In the first part, I will analyze the datasets to develop trading
+- In the first part, I will analyze the datasets to develop trading strategy.
 - Tool : Python
 - Skill : Data analysis, Data visualization, Trading ideas
 
